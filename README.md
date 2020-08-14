@@ -1,2 +1,6 @@
 # switch-scores
-PDF Repository of switch score sheets.
+
+This will be the home of all of the one-sheet scoring cards for switches that I have stated I would eventually get around to making. It should also, theoretically, contain and updated sheet that tracks the rankings/average scores/statistics of all of the switches that I do score, though we shall see how that gets updated. No promises as to how often things will get added, as well.
+
+Cheers,
+-Goat
