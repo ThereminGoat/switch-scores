@@ -4,3 +4,5 @@ This will be the home of all of the one-sheet scoring cards for switches that I 
 
 Cheers,
 -Goat
+
+Please Note: The Everglide Jade Green is actually a tactile switch and not a linear one as I had reviewed. This should show you just how bad of tactiles they are. (This will be edited soon, bare with me)
