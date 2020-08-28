@@ -5,7 +5,7 @@ This will be the home of all of the one-sheet scoring cards for switches that I 
 
 (There are no promises as to how often things will be added to this list nor to what quantity they will be added. This is supplementary review material, at best.)
 
-Cheers,
+Cheers, 
 -Goat
 
 Other ThereminGoat Links:
