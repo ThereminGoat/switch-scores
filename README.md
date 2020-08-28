@@ -6,9 +6,11 @@ This will be the home of all of the one-sheet scoring cards for switches that I 
 (There are no promises as to how often things will be added to this list nor to what quantity they will be added. This is supplementary review material, at best.)
 
 Cheers, 
+
 -Goat
 
 Other ThereminGoat Links:
+
 Website: https://www.theremingoat.com/
 
 Twitter: https://twitter.com/goattheremin?lang=en
