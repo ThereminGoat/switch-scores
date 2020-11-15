@@ -18,3 +18,5 @@ Twitter: https://twitter.com/goattheremin?lang=en
 Instagram: https://www.instagram.com/theremingoatmk/?hl=en
 
 Reddit: https://www.reddit.com/user/ThereminGoat/
+
+Patreon: https://www.patreon.com/theremingoat
